@@ -1,0 +1,13 @@
+name: eco629
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.11
+  # Scientific stack used by the lecture code
+  - numpy
+  - scipy
+  - matplotlib
+  - sympy
+  # Kernel and JupyterLab used to run the notebooks
+  - ipykernel
+  - jupyterlab
