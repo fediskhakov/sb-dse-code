@@ -11,3 +11,5 @@ dependencies:
   # Kernel and JupyterLab used to run the notebooks
   - ipykernel
   - jupyterlab
+  # IPython.display, used by the animated notebooks
+  - ipython
