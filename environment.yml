@@ -5,6 +5,7 @@ dependencies:
   - python >=3.11
   # Scientific stack used by the lecture code
   - numpy
+  - pandas
   - scipy
   - matplotlib
   - sympy
