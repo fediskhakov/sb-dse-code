@@ -6,3 +6,4 @@ sympy
 jupyterlab
 ipykernel
 ipython
+line_profiler

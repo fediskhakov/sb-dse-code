@@ -14,3 +14,5 @@ dependencies:
   - jupyterlab
   # IPython.display, used by the animated notebooks
   - ipython
+  # line-by-line profiling in the NFXP practical
+  - line_profiler
