@@ -16,3 +16,5 @@ dependencies:
   - ipython
   # line-by-line profiling in the NFXP practical
   - line_profiler
+  # optimization, and maximum likelihood with inference (estimagic), in the CCP practical
+  - optimagic

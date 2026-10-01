@@ -7,3 +7,4 @@ jupyterlab
 ipykernel
 ipython
 line_profiler
+optimagic
